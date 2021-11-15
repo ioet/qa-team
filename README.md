@@ -1,2 +1,2 @@
-# qa-team
+# ioet-qa-team
 Test Automation examples and other QA Stuff
