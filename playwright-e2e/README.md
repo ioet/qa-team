@@ -20,7 +20,7 @@ npm i -D @playwright/test
 
 ```bash
 # As lib 
-node filename.js
+node test.js
 
 # As test runner
 npx playwright test
