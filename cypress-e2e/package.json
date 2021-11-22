@@ -1,0 +1,20 @@
+{
+  "name": "cypress-e2e",
+  "version": "1.0.0",
+  "description": "e2e framework cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "e2e",
+    "cypress",
+    "automation"
+  ],
+  "author": "vanessa",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.0.0"
+  }
+}
