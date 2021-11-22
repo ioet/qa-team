@@ -20,7 +20,7 @@ npm run cypress:open
 
 ## Resources
 
-- [Video - Cypress Framework](https://drive.google.com/drive/folders/18VpxAyxTf-BurZHKLaMQirdetpEv1RoK?usp=sharing)
+- [Video - Cypress Framework](https://drive.google.com/file/d/1P4ILIl7W1IYijEX2nVse9Icfv6wnrD6h/view?usp=sharing)
 
 
 
